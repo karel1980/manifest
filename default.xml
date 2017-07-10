@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="ssh://git@github.com/" />
+	<default revision="master" remote="origin" />
+
+	<project path="myhome"
+	name="karel1980/myhome.git" remote="origin" />
+
+	<project path="karel1980.github.io"
+	name="karel1980/karel1980.github.io.git" remote="origin" />
+
+</manifest>
